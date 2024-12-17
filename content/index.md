@@ -1,4 +1,5 @@
 ---
 title: Home
 ---
-[[ResumeMilesKent.pdf |Resume]]
+-> [[ResumeMilesKent.pdf |Resume]]
+-> [GitHub](https://github.com/mileskent)
