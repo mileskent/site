@@ -6,65 +6,65 @@
       <description>Last 10 notes on Miles Kent</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Positive Definite</title>
-    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Positive-Definite</link>
-    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Positive-Definite</guid>
-    <description>\forall \vec{x}\ x^T A x &gt; 0, then A is Positive Definite.</description>
-    <pubDate>Tue, 17 Dec 2024 04:04:45 GMT</pubDate>
+    <title>Diagonalization</title>
+    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Diagonalization</link>
+    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Diagonalization</guid>
+    <description>Diagonal Matrix A matrix is diagonal if the only non-zero elements, if any, are on the main diagonal. If A is diagonal, then A^k is very easy to compute because you simply exponentiate every diagonal element by k Diagonal matrices cannot have \lambda = 0 Strang Consider a matrix A with some eigenvalues and eigenvectors.</description>
+    <pubDate>Tue, 17 Dec 2024 04:45:41 GMT</pubDate>
   </item><item>
-    <title>Positive Semidefinite</title>
-    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Positive-Semidefinite</link>
-    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Positive-Semidefinite</guid>
-    <description>\forall \vec{x}\ x^T A x \geq 0, then A is Positive Semidefinite.</description>
-    <pubDate>Tue, 17 Dec 2024 04:04:45 GMT</pubDate>
+    <title>Gram-Schmidt Process</title>
+    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Gram-Schmidt-Process</link>
+    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Gram-Schmidt-Process</guid>
+    <description>Let X be a set of vectors that form a basis for subspace W of \mathbb{R}^n, Let V be a set of vectors that form an Orthogonal Basis for W The Gram-Schmidt process defines how V can be derived ...</description>
+    <pubDate>Tue, 17 Dec 2024 04:45:41 GMT</pubDate>
   </item><item>
-    <title>QR Factorization</title>
-    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/QR-Factorization</link>
-    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/QR-Factorization</guid>
-    <description>For any m \times n matrix A, with linearly independent columns: A = QR Q is m x n its columns are an orthonormal basis for Col A R is n x n upper triangular positive diagonal ||\vec{r}_j|| ...</description>
-    <pubDate>Tue, 17 Dec 2024 04:04:45 GMT</pubDate>
+    <title>Least Squares</title>
+    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Least-Squares</link>
+    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Least-Squares</guid>
+    <description>Given Given many data points, construct a matrix equation in the form of a linear equation (this matrix equation will be overdetermined). The matrix equation below is A\vec{x} = \vec{b} This equation is linear but it doesn’t have to be, just adjust accordingly to represent the equations as a matrix equation.</description>
+    <pubDate>Tue, 17 Dec 2024 04:45:41 GMT</pubDate>
   </item><item>
-    <title>Quadratic Form</title>
-    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Quadratic-Form</link>
-    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Quadratic-Form</guid>
-    <description> Change of variable Positive Definite Positive Semidefinite Negative Definite Negative Semidefinite.</description>
-    <pubDate>Tue, 17 Dec 2024 04:04:45 GMT</pubDate>
-  </item><item>
-    <title>Singular Value Decomposition</title>
-    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Singular-Value-Decomposition</link>
-    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Singular-Value-Decomposition</guid>
-    <description>www.youtube.com/watch Applications If A is a invertible square matrix then the condition number is the largest singular value divided by the smallest singular value Condition ...</description>
-    <pubDate>Tue, 17 Dec 2024 04:04:45 GMT</pubDate>
-  </item><item>
-    <title>Spectral Decomposition</title>
-    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Spectral-Decomposition</link>
-    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Spectral-Decomposition</guid>
-    <description>www.youtube.com/watch Symmetric Recall: If P is an orthogonal n × n matrix, then P −1 = P T , which implies A = PDP^T is diagonalizable and symmetric.</description>
-    <pubDate>Tue, 17 Dec 2024 04:04:45 GMT</pubDate>
-  </item><item>
-    <title>Symmetric Matrix</title>
-    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Symmetric-Matrix</link>
-    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Symmetric-Matrix</guid>
-    <description>Definition Matrix A is symmetric if A^T = A The eigenspaces of a symmetric matrix are orthogonal.</description>
-    <pubDate>Tue, 17 Dec 2024 04:04:45 GMT</pubDate>
-  </item><item>
-    <title>Orthogonal Basis</title>
-    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthogonal-Basis</link>
-    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthogonal-Basis</guid>
-    <description>A basis where each vector is orthogonal to to every other vector. Let W be a subspace of \mathbb{R}^n and has an orthogonal basis formed by vectors: \vec{u_1}, ..</description>
-    <pubDate>Tue, 17 Dec 2024 04:04:45 GMT</pubDate>
+    <title>Master</title>
+    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Master</link>
+    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Master</guid>
+    <description>Barone Website Master Website Systems of Linear Equations sbarone7.math.gatech.edu/Chapters_1_and_2.pdf Linear Equation a_1x_1 + a_2x_2 + .. + a_n x_n = b a’s are coefficients, x’s are variables, n is the dimension (number of variables) e.g.</description>
+    <pubDate>Tue, 17 Dec 2024 04:45:41 GMT</pubDate>
   </item><item>
     <title>Orthogonal Complement</title>
     <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthogonal-Complement</link>
     <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthogonal-Complement</guid>
     <description>The orthogonal compliment to a subspace W is the the set of all vectors that are orthogonal to W. i.e. W^{\perp} = \forall(\vec{y} \in W)\{\vec{x} \mid \vec{x} \cdot \vec{y} = 0\}.</description>
-    <pubDate>Tue, 17 Dec 2024 04:04:45 GMT</pubDate>
+    <pubDate>Tue, 17 Dec 2024 04:45:41 GMT</pubDate>
   </item><item>
     <title>Orthogonal Decomposition</title>
     <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthogonal-Decomposition</link>
     <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthogonal-Decomposition</guid>
     <description>I proceed to define the orthogonal decomposition for some vector y, where y \in \mathbb{R}^n, where W is a subspace of \mathbb{R}^n, where W^{\perp} is the Orthogonal Complement ...</description>
-    <pubDate>Tue, 17 Dec 2024 04:04:45 GMT</pubDate>
+    <pubDate>Tue, 17 Dec 2024 04:45:41 GMT</pubDate>
+  </item><item>
+    <title>Orthogonal Projection</title>
+    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthogonal-Projection</link>
+    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthogonal-Projection</guid>
+    <description>\displaylines{ \text{proj}_{\vec{u}} \vec{v} = \left( \vec{v} \cdot \hat{u} \right)\hat{u} = \frac{\vec{v} \cdot \vec{u}}{||\vec{u}||}\frac{\vec{u}}{||\vec{u}||} = ...</description>
+    <pubDate>Tue, 17 Dec 2024 04:45:41 GMT</pubDate>
+  </item><item>
+    <title>QR Factorization</title>
+    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/QR-Factorization</link>
+    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/QR-Factorization</guid>
+    <description>For any m \times n matrix A, with linearly independent columns: A = QR Q is m x n its columns are an orthonormal basis for Col A R is n x n upper triangular positive diagonal ||\vec{r}_j|| ...</description>
+    <pubDate>Tue, 17 Dec 2024 04:45:41 GMT</pubDate>
+  </item><item>
+    <title>Orthonormal Basis</title>
+    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthonormal-Basis</link>
+    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthonormal-Basis</guid>
+    <description>An orthonormal basis for a subspace W is an basis for which every vector is Orthonormal, i.e. Orthogonal and Normal If \{\vec{u_1}, \cdots, \vec{u_p}\} is an orthonormal basis for W: \vec{w} = (\vec{w} \cdot \vec{u_1})\vec{u_1} + \cdots + (\vec{w} \cdot \vec{u_p})\vec{u_p} ||\vec{w}|| = \sqrt{(\vec{w} \cdot \vec{u_1})^2 + \cdots + (\vec{w} \cdot \vec{u_p})^2}.</description>
+    <pubDate>Tue, 17 Dec 2024 04:35:22 GMT</pubDate>
+  </item><item>
+    <title>Diagonalizable</title>
+    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Diagonalizable</link>
+    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Diagonalizable</guid>
+    <description>A \in \mathbb{R}^{n \times n} \land A = PDP^{-1} \implies A is diagonalizable, where D is a diagonal matrix A is diagonalizable \iff A has n linearly independent eigenvectors ...</description>
+    <pubDate>Tue, 17 Dec 2024 04:35:22 GMT</pubDate>
   </item>
     </channel>
   </rss>
