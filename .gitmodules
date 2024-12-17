@@ -1,3 +1,6 @@
 [submodule "content/notes/Physics"]
 	path = content/notes/Physics
 	url = https://github.com/mileskent/Physics
+[submodule "content/Notes/Linear Algebra"]
+	path = content/Notes/Linear Algebra
+	url = https://github.com/mileskent/MATH1554
