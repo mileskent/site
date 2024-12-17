@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Posts/MCAP Replay.md",
+                "file": "Notes/Linear Algebra/Orthonormal Basis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MCAP Replay"
+              "title": "Orthonormal Basis"
             }
           }
         ]
@@ -160,8 +160,15 @@
   },
   "active": "c39ace80d11b5d63",
   "lastOpenFiles": [
-    "Posts/MCAP Replay.md",
+    "Notes/Linear Algebra/Orthogonal Basis.md",
+    "Notes/Linear Algebra/Orthogonal.md",
+    "Notes/Linear Algebra/Negative Semidefinite.md",
+    "Notes/Linear Algebra/Negative Definite.md",
     "Notes/Linear Algebra/Google Page Rank.md",
+    "Notes/Linear Algebra/Constrained Optimization.md",
+    "Notes/Linear Algebra/ConstrainedOptimizationHW.pdf",
+    "Notes/Linear Algebra/Notebooks/LeastSquaresHW6_5.pdf",
+    "Posts/MCAP Replay.md",
     "index.md",
     "Notes/Linear Algebra/Symmetric Matrix.md",
     "Notes/Linear Algebra/Spectral Decomposition.md",
@@ -179,19 +186,14 @@
     "Notes/Linear Algebra/Pasted image 20241124220018 1.png",
     "Notes/Linear Algebra/Orthonormal.md",
     "Notes/Linear Algebra/Orthonormal Basis.md",
-    "Notes/Linear Algebra/Orthogonal.md",
     "Notes/Linear Algebra/Orthogonal Projection.md",
     "Notes/Linear Algebra/Orthogonal Matrix.md",
     "Notes/Linear Algebra/Orthogonal Diagonalization.md",
     "Notes/Linear Algebra/Orthogonal Decomposition.md",
     "Notes/Linear Algebra/Orthogonal Complement.md",
-    "Notes/Linear Algebra/Orthogonal Basis.md",
-    "Notes/Linear Algebra/Notebooks/LeastSquaresHW6_5.pdf",
     "Notes/Linear Algebra/Notebooks/LeastSquaresHW6_5.jl",
     "Notes/Linear Algebra/Notebooks",
     "Notes/Linear Algebra/Normal.md",
-    "Notes/Linear Algebra/Negative Semidefinite.md",
-    "Notes/Linear Algebra/Negative Definite.md",
     "Notes/Linear Algebra/Master.md",
     "Notes/Linear Algebra/Least Squares.md",
     "Notes/Linear Algebra/Images/augmented-matrix.png",
@@ -202,8 +204,6 @@
     "Notes/Linear Algebra/Images/Pasted image 20241007112930.png",
     "Notes/Linear Algebra/Images",
     "Notes/Linear Algebra/Gram-Schmidt Process.md",
-    "Notes/Linear Algebra/Diagonalization.md",
-    "Notes/Linear Algebra/ConstrainedOptimizationHW.pdf",
     "Notes/Linear Algebra",
     "Notes/Physics/preamble.sty"
   ]
