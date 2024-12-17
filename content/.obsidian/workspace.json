@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Notes/Linear Algebra/Google Page Rank.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Google Page Rank"
             }
           }
         ]
@@ -158,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65f769e82af0b23d",
+  "active": "9348f6d704517b3d",
   "lastOpenFiles": [
+    "index.md",
     "Notes/Linear Algebra/Symmetric Matrix.md",
     "Notes/Linear Algebra/Spectral Decomposition.md",
     "Notes/Linear Algebra/Singular Value Decomposition.md",
@@ -203,7 +204,6 @@
     "Notes/Linear Algebra/Diagonalization.md",
     "Notes/Linear Algebra/Diagonalizable.md",
     "Notes/Linear Algebra/ConstrainedOptimizationHW.pdf",
-    "Notes/Linear Algebra/Constrained Optimization.md",
     "Notes/Linear Algebra",
     "Notes/Physics/preamble.sty"
   ]

@@ -6,65 +6,65 @@
       <description>Last 10 notes on Miles Kent</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>LC Series DC Circuit</title>
-    <link>https://https:/mileskent.github.io/Notes/Physics/LC-Series-DC-Circuit</link>
-    <guid>https://https:/mileskent.github.io/Notes/Physics/LC-Series-DC-Circuit</guid>
-    <description>todo.</description>
-    <pubDate>Tue, 17 Dec 2024 03:55:06 GMT</pubDate>
+    <title>Positive Definite</title>
+    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Positive-Definite</link>
+    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Positive-Definite</guid>
+    <description>\forall \vec{x}\ x^T A x &gt; 0, then A is Positive Definite.</description>
+    <pubDate>Tue, 17 Dec 2024 04:04:45 GMT</pubDate>
   </item><item>
-    <title>LRC Series AC Circuit</title>
-    <link>https://https:/mileskent.github.io/Notes/Physics/LRC-Series-AC-Circuit</link>
-    <guid>https://https:/mileskent.github.io/Notes/Physics/LRC-Series-AC-Circuit</guid>
-    <description>todo.</description>
-    <pubDate>Tue, 17 Dec 2024 03:55:06 GMT</pubDate>
+    <title>Positive Semidefinite</title>
+    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Positive-Semidefinite</link>
+    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Positive-Semidefinite</guid>
+    <description>\forall \vec{x}\ x^T A x \geq 0, then A is Positive Semidefinite.</description>
+    <pubDate>Tue, 17 Dec 2024 04:04:45 GMT</pubDate>
   </item><item>
-    <title>LRC Series DC Circuit</title>
-    <link>https://https:/mileskent.github.io/Notes/Physics/LRC-Series-DC-Circuit</link>
-    <guid>https://https:/mileskent.github.io/Notes/Physics/LRC-Series-DC-Circuit</guid>
-    <description>todo.</description>
-    <pubDate>Tue, 17 Dec 2024 03:55:06 GMT</pubDate>
+    <title>QR Factorization</title>
+    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/QR-Factorization</link>
+    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/QR-Factorization</guid>
+    <description>For any m \times n matrix A, with linearly independent columns: A = QR Q is m x n its columns are an orthonormal basis for Col A R is n x n upper triangular positive diagonal ||\vec{r}_j|| ...</description>
+    <pubDate>Tue, 17 Dec 2024 04:04:45 GMT</pubDate>
   </item><item>
-    <title>Maxwell&#039;s Equations</title>
-    <link>https://https:/mileskent.github.io/Notes/Physics/Maxwell's-Equations</link>
-    <guid>https://https:/mileskent.github.io/Notes/Physics/Maxwell's-Equations</guid>
-    <description>Created by Maxwell. Microscopic For vacuum. \nabla \cdot E = \frac{\rho}{\epsilon_0} Gauss’ Law for Electricity \oiint_{S} \vec{E} \cdot d \vec{S} = \frac{Q_{enclosed}}{\epsilon_0} \nabla \times E = - \frac{\partial B}{\partial t} Maxwell-Faraday Equation \mathcal{E} = \oint \vec{E} \cdot d \vec{l} = -\frac{d \Phi_{B}}{d t} = - \frac{d}{dt} \oiint_{S} \vec{B} \cdot d \vec{S} = - \oiint_{S} \frac{\partial B}{\partial t} \cdot d \vec{S} \nabla \cdot B = 0 Gauss’ Law for Magnetism \oiint_{S} \vec{B} \cdot d \vec{S} = 0 \nabla \times B = \mu_{0} (J + \epsilon_{0} \frac{\partial E}{\partial t}) Ampère’s Law With Maxwell’s Addition \oint_{C} \vec{B} \cdot d \vec{l} = \mu_{0} \left(I + \epsilon_{0} \frac{d \Phi_{E}}{d t}\right)= \mu_{0} (\oiint_{S} \vec{J} \cdot d \vec{S} + \epsilon_{0} \frac{d}{dt} \oiint_{S} \vec{E} \cdot d \vec{S}) Macroscopic For a medium.</description>
-    <pubDate>Tue, 17 Dec 2024 03:55:06 GMT</pubDate>
+    <title>Quadratic Form</title>
+    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Quadratic-Form</link>
+    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Quadratic-Form</guid>
+    <description> Change of variable Positive Definite Positive Semidefinite Negative Definite Negative Semidefinite.</description>
+    <pubDate>Tue, 17 Dec 2024 04:04:45 GMT</pubDate>
   </item><item>
-    <title>Maxwell-Faraday Equation</title>
-    <link>https://https:/mileskent.github.io/Notes/Physics/Maxwell-Faraday-Equation</link>
-    <guid>https://https:/mileskent.github.io/Notes/Physics/Maxwell-Faraday-Equation</guid>
-    <description>The differential form of this particular one of Maxwell’s Equations. \nabla \times E = -\frac{\partial B}{\partial t} \mathcal{E} = \oint \vec{E} \cdot d \vec{l} = -\frac{d \Phi_{B}}{d t} = - \frac{d}{dt} \oiint_{S} \vec{B} \cdot d \vec{S} = - \oiint_{S} \frac{\partial B}{\partial t} \cdot d \vec{S} Also: Faraday’s Law.</description>
-    <pubDate>Tue, 17 Dec 2024 03:55:06 GMT</pubDate>
+    <title>Singular Value Decomposition</title>
+    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Singular-Value-Decomposition</link>
+    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Singular-Value-Decomposition</guid>
+    <description>www.youtube.com/watch Applications If A is a invertible square matrix then the condition number is the largest singular value divided by the smallest singular value Condition ...</description>
+    <pubDate>Tue, 17 Dec 2024 04:04:45 GMT</pubDate>
   </item><item>
-    <title>Poynting Vector</title>
-    <link>https://https:/mileskent.github.io/Notes/Physics/Poynting-Vector</link>
-    <guid>https://https:/mileskent.github.io/Notes/Physics/Poynting-Vector</guid>
-    <description>\vec{S} is the Poynting vector, which corresponds to the direction of the electromagnetic wave or its power flow. \vec{S} = \frac{1}{\mu_{0}} \vec{E} \times \vec{B} Where I is intensity in \frac{W}{m^2} I = S_{avg} = \frac{E_{max}B_{max}}{2 \mu_{0}}= \frac{E_{max}^2}{2 \mu_{0}c} E = cB .</description>
-    <pubDate>Tue, 17 Dec 2024 03:55:06 GMT</pubDate>
+    <title>Spectral Decomposition</title>
+    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Spectral-Decomposition</link>
+    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Spectral-Decomposition</guid>
+    <description>www.youtube.com/watch Symmetric Recall: If P is an orthogonal n × n matrix, then P −1 = P T , which implies A = PDP^T is diagonalizable and symmetric.</description>
+    <pubDate>Tue, 17 Dec 2024 04:04:45 GMT</pubDate>
   </item><item>
-    <title>RL Series DC Circuit</title>
-    <link>https://https:/mileskent.github.io/Notes/Physics/RL-Series-DC-Circuit</link>
-    <guid>https://https:/mileskent.github.io/Notes/Physics/RL-Series-DC-Circuit</guid>
-    <description>Where \mathcal{E} is the EMF of the battery that charges the circuit. Growth i(t)=\frac{\mathcal{E}}{R}(1-e^{-\frac{R}{L}t}) Decay i(t)=\frac{\mathcal{E}}{R}e^{-\frac{R}{L}t}.</description>
-    <pubDate>Tue, 17 Dec 2024 03:55:06 GMT</pubDate>
+    <title>Symmetric Matrix</title>
+    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Symmetric-Matrix</link>
+    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Symmetric-Matrix</guid>
+    <description>Definition Matrix A is symmetric if A^T = A The eigenspaces of a symmetric matrix are orthogonal.</description>
+    <pubDate>Tue, 17 Dec 2024 04:04:45 GMT</pubDate>
   </item><item>
-    <title>Reactance</title>
-    <link>https://https:/mileskent.github.io/Notes/Physics/Reactance</link>
-    <guid>https://https:/mileskent.github.io/Notes/Physics/Reactance</guid>
-    <description>todo.</description>
-    <pubDate>Tue, 17 Dec 2024 03:55:06 GMT</pubDate>
+    <title>Orthogonal Basis</title>
+    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthogonal-Basis</link>
+    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthogonal-Basis</guid>
+    <description>A basis where each vector is orthogonal to to every other vector. Let W be a subspace of \mathbb{R}^n and has an orthogonal basis formed by vectors: \vec{u_1}, ..</description>
+    <pubDate>Tue, 17 Dec 2024 04:04:45 GMT</pubDate>
   </item><item>
-    <title>Solenoid</title>
-    <link>https://https:/mileskent.github.io/Notes/Physics/Solenoid</link>
-    <guid>https://https:/mileskent.github.io/Notes/Physics/Solenoid</guid>
-    <description>A wire loop with turns in it. You get a magnetic field through one when current goes through it such that B \propto I. B =\mu_0nI.</description>
-    <pubDate>Tue, 17 Dec 2024 03:55:06 GMT</pubDate>
+    <title>Orthogonal Complement</title>
+    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthogonal-Complement</link>
+    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthogonal-Complement</guid>
+    <description>The orthogonal compliment to a subspace W is the the set of all vectors that are orthogonal to W. i.e. W^{\perp} = \forall(\vec{y} \in W)\{\vec{x} \mid \vec{x} \cdot \vec{y} = 0\}.</description>
+    <pubDate>Tue, 17 Dec 2024 04:04:45 GMT</pubDate>
   </item><item>
-    <title>Speed of Light</title>
-    <link>https://https:/mileskent.github.io/Notes/Physics/Speed-of-Light</link>
-    <guid>https://https:/mileskent.github.io/Notes/Physics/Speed-of-Light</guid>
-    <description>c = \frac{1}{\sqrt{\mu_{0}\epsilon_0}} Derivation using Maxwell’s Equations todo.</description>
-    <pubDate>Tue, 17 Dec 2024 03:55:06 GMT</pubDate>
+    <title>Orthogonal Decomposition</title>
+    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthogonal-Decomposition</link>
+    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthogonal-Decomposition</guid>
+    <description>I proceed to define the orthogonal decomposition for some vector y, where y \in \mathbb{R}^n, where W is a subspace of \mathbb{R}^n, where W^{\perp} is the Orthogonal Complement ...</description>
+    <pubDate>Tue, 17 Dec 2024 04:04:45 GMT</pubDate>
   </item>
     </channel>
   </rss>
