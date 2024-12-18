@@ -6,65 +6,65 @@
       <description>Last 10 notes on Miles Kent</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Home</title>
-    <link>https://https:/mileskent.github.io/</link>
-    <guid>https://https:/mileskent.github.io/</guid>
-    <description>Hey there. Feel free to take a look around. Resume GitHub .</description>
-    <pubDate>Tue, 17 Dec 2024 04:58:09 GMT</pubDate>
+    <title>Biot-Savart Law</title>
+    <link>https://https:/mileskent.github.io/Notes/Physics/Biot-Savart-Law</link>
+    <guid>https://https:/mileskent.github.io/Notes/Physics/Biot-Savart-Law</guid>
+    <description>A fundamental aspect of the concept of Electromagnetism is that a moving electric field creates a magnetic field. The direction of a field follows the right hand rule, with the velocity being the thumbs and the fingers being the magnetic field.</description>
+    <pubDate>Wed, 18 Dec 2024 00:00:29 GMT</pubDate>
   </item><item>
-    <title>Diagonalization</title>
-    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Diagonalization</link>
-    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Diagonalization</guid>
-    <description>Diagonal Matrix A matrix is diagonal if the only non-zero elements, if any, are on the main diagonal. If A is diagonal, then A^k is very easy to compute because you simply exponentiate every diagonal element by k Diagonal matrices cannot have \lambda = 0 Strang Consider a matrix A with some eigenvalues and eigenvectors.</description>
-    <pubDate>Tue, 17 Dec 2024 04:45:41 GMT</pubDate>
+    <title>Common Cases of Ampère&#039;s Law</title>
+    <link>https://https:/mileskent.github.io/Notes/Physics/Common-Cases-of-Amp%C3%A8re's-Law</link>
+    <guid>https://https:/mileskent.github.io/Notes/Physics/Common-Cases-of-Amp%C3%A8re's-Law</guid>
+    <description>Distance r away from an infinitely long wire B = \frac{\mu_{0}I}{2 \pi r} Inside a Solenoid with n turns per unit length B = \mu_{0}nIInside a toroidal Solenoid with total N turns B = ...</description>
+    <pubDate>Wed, 18 Dec 2024 00:00:29 GMT</pubDate>
   </item><item>
-    <title>Gram-Schmidt Process</title>
-    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Gram-Schmidt-Process</link>
-    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Gram-Schmidt-Process</guid>
-    <description>Let X be a set of vectors that form a basis for subspace W of \mathbb{R}^n, Let V be a set of vectors that form an Orthogonal Basis for W The Gram-Schmidt process defines how V can be derived ...</description>
-    <pubDate>Tue, 17 Dec 2024 04:45:41 GMT</pubDate>
+    <title>EMF</title>
+    <link>https://https:/mileskent.github.io/Notes/Physics/EMF</link>
+    <guid>https://https:/mileskent.github.io/Notes/Physics/EMF</guid>
+    <description>Electromotive force (EMF) is an energy transfer to an electric circuit per unit of electric charge, measured in volts. It is not a force, and it would be more accurate to call it source voltage.</description>
+    <pubDate>Wed, 18 Dec 2024 00:00:29 GMT</pubDate>
   </item><item>
-    <title>Least Squares</title>
-    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Least-Squares</link>
-    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Least-Squares</guid>
-    <description>Given Given many data points, construct a matrix equation in the form of a linear equation (this matrix equation will be overdetermined). The matrix equation below is A\vec{x} = \vec{b} This equation is linear but it doesn’t have to be, just adjust accordingly to represent the equations as a matrix equation.</description>
-    <pubDate>Tue, 17 Dec 2024 04:45:41 GMT</pubDate>
+    <title>LRC Series AC Circuit</title>
+    <link>https://https:/mileskent.github.io/Notes/Physics/LRC-Series-AC-Circuit</link>
+    <guid>https://https:/mileskent.github.io/Notes/Physics/LRC-Series-AC-Circuit</guid>
+    <description>todo.</description>
+    <pubDate>Wed, 18 Dec 2024 00:00:29 GMT</pubDate>
   </item><item>
-    <title>Master</title>
-    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Master</link>
-    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Master</guid>
-    <description>Barone Website Master Website Systems of Linear Equations sbarone7.math.gatech.edu/Chapters_1_and_2.pdf Linear Equation a_1x_1 + a_2x_2 + .. + a_n x_n = b a’s are coefficients, x’s are variables, n is the dimension (number of variables) e.g.</description>
-    <pubDate>Tue, 17 Dec 2024 04:45:41 GMT</pubDate>
+    <title>Ampère&#039;s Law With Maxwell&#039;s Addition</title>
+    <link>https://https:/mileskent.github.io/Notes/Physics/Amp%C3%A8re's-Law-With-Maxwell's-Addition</link>
+    <guid>https://https:/mileskent.github.io/Notes/Physics/Amp%C3%A8re's-Law-With-Maxwell's-Addition</guid>
+    <description>A complete form of Ampère’s Law. \nabla \times B = \mu_{0} (J + \epsilon_{0} \frac{\partial E}{\partial t}) \oint_{C} \vec{B} \cdot d \vec{l} = \mu_{0} (I + \epsilon_{0} \frac{d \Phi_{E}}{d t}) Connection between differential and integral form todo.</description>
+    <pubDate>Wed, 18 Dec 2024 00:00:29 GMT</pubDate>
   </item><item>
-    <title>Orthogonal Complement</title>
-    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthogonal-Complement</link>
-    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthogonal-Complement</guid>
-    <description>The orthogonal compliment to a subspace W is the the set of all vectors that are orthogonal to W. i.e. W^{\perp} = \forall(\vec{y} \in W)\{\vec{x} \mid \vec{x} \cdot \vec{y} = 0\}.</description>
-    <pubDate>Tue, 17 Dec 2024 04:45:41 GMT</pubDate>
+    <title>Solenoid</title>
+    <link>https://https:/mileskent.github.io/Notes/Physics/Solenoid</link>
+    <guid>https://https:/mileskent.github.io/Notes/Physics/Solenoid</guid>
+    <description>A wire loop with turns in it. You get a magnetic field through one when current goes through it such that B \propto I. B =\mu_0nI.</description>
+    <pubDate>Wed, 18 Dec 2024 00:00:29 GMT</pubDate>
   </item><item>
-    <title>Orthogonal Decomposition</title>
-    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthogonal-Decomposition</link>
-    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthogonal-Decomposition</guid>
-    <description>I proceed to define the orthogonal decomposition for some vector y, where y \in \mathbb{R}^n, where W is a subspace of \mathbb{R}^n, where W^{\perp} is the Orthogonal Complement ...</description>
-    <pubDate>Tue, 17 Dec 2024 04:45:41 GMT</pubDate>
+    <title>Faraday&#039;s Law</title>
+    <link>https://https:/mileskent.github.io/Notes/Physics/Faraday's-Law</link>
+    <guid>https://https:/mileskent.github.io/Notes/Physics/Faraday's-Law</guid>
+    <description>The EMF around a closed path is equal to the negative of the time rate of change of the magnetic Flux enclosed by the path. \mathcal{E} = -\frac{d \Phi_B}{dt} Accordingly, a Solenoid with N total turns will have an EMF N times as large as that induced by just one of its loops: \mathcal{E} = -N\frac{d \Phi_B}{dt} Of a rotating loop with N total turns and angular velocity \omega: \mathcal{E} = -N\frac{d \Phi_{B}}{dt} = NBA \omega sin(\omega t) Stationary Faraday’s Law If the path is stationary: \oint \vec{E} \cdot d \vec{l} = -\frac{d \Phi_B}{dt} Inside a Solenoid: \oint \vec{E} \cdot d \vec{l} = -\frac{dB}{dt}A = -\mu_{0}n \frac{dI}{dt} A.</description>
+    <pubDate>Wed, 18 Dec 2024 00:00:29 GMT</pubDate>
   </item><item>
-    <title>Orthogonal Projection</title>
-    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthogonal-Projection</link>
-    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthogonal-Projection</guid>
-    <description>\displaylines{ \text{proj}_{\vec{u}} \vec{v} = \left( \vec{v} \cdot \hat{u} \right)\hat{u} = \frac{\vec{v} \cdot \vec{u}}{||\vec{u}||}\frac{\vec{u}}{||\vec{u}||} = ...</description>
-    <pubDate>Tue, 17 Dec 2024 04:45:41 GMT</pubDate>
+    <title>Flux</title>
+    <link>https://https:/mileskent.github.io/Notes/Physics/Flux</link>
+    <guid>https://https:/mileskent.github.io/Notes/Physics/Flux</guid>
+    <description>The result of a surface integral, e.g. \Phi = \iint \vec{F} \cdot d \vec{S} Perpendicular-flowiness of the vector field through the surface.</description>
+    <pubDate>Wed, 18 Dec 2024 00:00:29 GMT</pubDate>
   </item><item>
-    <title>QR Factorization</title>
-    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/QR-Factorization</link>
-    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/QR-Factorization</guid>
-    <description>For any m \times n matrix A, with linearly independent columns: A = QR Q is m x n its columns are an orthonormal basis for Col A R is n x n upper triangular positive diagonal ||\vec{r}_j|| ...</description>
-    <pubDate>Tue, 17 Dec 2024 04:45:41 GMT</pubDate>
+    <title>Inductor</title>
+    <link>https://https:/mileskent.github.io/Notes/Physics/Inductor</link>
+    <guid>https://https:/mileskent.github.io/Notes/Physics/Inductor</guid>
+    <description>A Solenoid. Inductors resist change in current. Inductors have a property called Inductance. A good analogy for an inductor is a flywheel, where angular inertia represents resistance to current change.</description>
+    <pubDate>Wed, 18 Dec 2024 00:00:29 GMT</pubDate>
   </item><item>
-    <title>Orthonormal Basis</title>
-    <link>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthonormal-Basis</link>
-    <guid>https://https:/mileskent.github.io/Notes/Linear-Algebra/Orthonormal-Basis</guid>
-    <description>An orthonormal basis for a subspace W is an basis for which every vector is Orthonormal, i.e. Orthogonal and Normal If \{\vec{u_1}, \cdots, \vec{u_p}\} is an orthonormal basis for W: \vec{w} = (\vec{w} \cdot \vec{u_1})\vec{u_1} + \cdots + (\vec{w} \cdot \vec{u_p})\vec{u_p} ||\vec{w}|| = \sqrt{(\vec{w} \cdot \vec{u_1})^2 + \cdots + (\vec{w} \cdot \vec{u_p})^2}.</description>
-    <pubDate>Tue, 17 Dec 2024 04:35:22 GMT</pubDate>
+    <title>Maxwell-Faraday Equation</title>
+    <link>https://https:/mileskent.github.io/Notes/Physics/Maxwell-Faraday-Equation</link>
+    <guid>https://https:/mileskent.github.io/Notes/Physics/Maxwell-Faraday-Equation</guid>
+    <description>The differential form of this particular one of Maxwell’s Equations. \nabla \times E = -\frac{\partial B}{\partial t} \mathcal{E} = \oint \vec{E} \cdot d \vec{l} = -\frac{d \Phi_{B}}{d t} = - \frac{d}{dt} \oiint_{S} \vec{B} \cdot d \vec{S} = - \oiint_{S} \frac{\partial B}{\partial t} \cdot d \vec{S} Also: Faraday’s Law.</description>
+    <pubDate>Wed, 18 Dec 2024 00:00:29 GMT</pubDate>
   </item>
     </channel>
   </rss>
