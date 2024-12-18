@@ -6,65 +6,65 @@
       <description>Last 10 notes on Miles Kent</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>LC Series DC Circuit</title>
-    <link>https://https:/mileskent.github.io/Notes/Physics/LC-Series-DC-Circuit</link>
-    <guid>https://https:/mileskent.github.io/Notes/Physics/LC-Series-DC-Circuit</guid>
-    <description>todo.</description>
-    <pubDate>Wed, 18 Dec 2024 00:51:01 GMT</pubDate>
+    <title>Biot-Savart Law</title>
+    <link>https://https:/mileskent.github.io/Notes/Physics/Biot-Savart-Law</link>
+    <guid>https://https:/mileskent.github.io/Notes/Physics/Biot-Savart-Law</guid>
+    <description>A fundamental aspect of the concept of Electromagnetism is that a moving electric field creates a magnetic field. The direction of a field follows the right hand rule, with the velocity being the thumbs and the fingers being the magnetic field.</description>
+    <pubDate>Wed, 18 Dec 2024 00:53:48 GMT</pubDate>
+  </item><item>
+    <title>Common Cases of Ampère&#039;s Law</title>
+    <link>https://https:/mileskent.github.io/Notes/Physics/Common-Cases-of-Amp%C3%A8re's-Law</link>
+    <guid>https://https:/mileskent.github.io/Notes/Physics/Common-Cases-of-Amp%C3%A8re's-Law</guid>
+    <description>Distance r away from an infinitely long wire B = \frac{\mu_{0}I}{2 \pi r} Inside a Solenoid with n turns per unit length B = \mu_{0}nIInside a toroidal Solenoid with total N turns B = ...</description>
+    <pubDate>Wed, 18 Dec 2024 00:53:48 GMT</pubDate>
+  </item><item>
+    <title>EMF</title>
+    <link>https://https:/mileskent.github.io/Notes/Physics/EMF</link>
+    <guid>https://https:/mileskent.github.io/Notes/Physics/EMF</guid>
+    <description>Electromotive force (EMF) is an energy transfer to an electric circuit per unit of electric charge, measured in volts. It is not a force, and it would be more accurate to call it source voltage.</description>
+    <pubDate>Wed, 18 Dec 2024 00:53:48 GMT</pubDate>
   </item><item>
     <title>LRC Series AC Circuit</title>
     <link>https://https:/mileskent.github.io/Notes/Physics/LRC-Series-AC-Circuit</link>
     <guid>https://https:/mileskent.github.io/Notes/Physics/LRC-Series-AC-Circuit</guid>
     <description>todo.</description>
-    <pubDate>Wed, 18 Dec 2024 00:51:01 GMT</pubDate>
+    <pubDate>Wed, 18 Dec 2024 00:53:48 GMT</pubDate>
   </item><item>
-    <title>LRC Series DC Circuit</title>
-    <link>https://https:/mileskent.github.io/Notes/Physics/LRC-Series-DC-Circuit</link>
-    <guid>https://https:/mileskent.github.io/Notes/Physics/LRC-Series-DC-Circuit</guid>
-    <description>todo.</description>
-    <pubDate>Wed, 18 Dec 2024 00:51:01 GMT</pubDate>
+    <title>Ampère&#039;s Law With Maxwell&#039;s Addition</title>
+    <link>https://https:/mileskent.github.io/Notes/Physics/Amp%C3%A8re's-Law-With-Maxwell's-Addition</link>
+    <guid>https://https:/mileskent.github.io/Notes/Physics/Amp%C3%A8re's-Law-With-Maxwell's-Addition</guid>
+    <description>A complete form of Ampère’s Law. \nabla \times B = \mu_{0} (J + \epsilon_{0} \frac{\partial E}{\partial t}) \oint_{C} \vec{B} \cdot d \vec{l} = \mu_{0} (I + \epsilon_{0} \frac{d \Phi_{E}}{d t}) Connection between differential and integral form todo.</description>
+    <pubDate>Wed, 18 Dec 2024 00:53:48 GMT</pubDate>
   </item><item>
-    <title>Maxwell&#039;s Equations</title>
-    <link>https://https:/mileskent.github.io/Notes/Physics/Maxwell's-Equations</link>
-    <guid>https://https:/mileskent.github.io/Notes/Physics/Maxwell's-Equations</guid>
-    <description>Created by Maxwell. Microscopic For vacuum. \nabla \cdot E = \frac{\rho}{\epsilon_0} Gauss’ Law for Electricity \oiint_{S} \vec{E} \cdot d \vec{S} = \frac{Q_{enclosed}}{\epsilon_0} \nabla \times E = - \frac{\partial B}{\partial t} Maxwell-Faraday Equation \mathcal{E} = \oint \vec{E} \cdot d \vec{l} = -\frac{d \Phi_{B}}{d t} = - \frac{d}{dt} \oiint_{S} \vec{B} \cdot d \vec{S} = - \oiint_{S} \frac{\partial B}{\partial t} \cdot d \vec{S} \nabla \cdot B = 0 Gauss’ Law for Magnetism \oiint_{S} \vec{B} \cdot d \vec{S} = 0 \nabla \times B = \mu_{0} (J + \epsilon_{0} \frac{\partial E}{\partial t}) Ampère’s Law With Maxwell’s Addition \oint_{C} \vec{B} \cdot d \vec{l} = \mu_{0} \left(I + \epsilon_{0} \frac{d \Phi_{E}}{d t}\right)= \mu_{0} (\oiint_{S} \vec{J} \cdot d \vec{S} + \epsilon_{0} \frac{d}{dt} \oiint_{S} \vec{E} \cdot d \vec{S}) Macroscopic For a medium.</description>
-    <pubDate>Wed, 18 Dec 2024 00:51:01 GMT</pubDate>
+    <title>Faraday&#039;s Law</title>
+    <link>https://https:/mileskent.github.io/Notes/Physics/Faraday's-Law</link>
+    <guid>https://https:/mileskent.github.io/Notes/Physics/Faraday's-Law</guid>
+    <description>The EMF around a closed path is equal to the negative of the time rate of change of the magnetic Flux enclosed by the path. \mathcal{E} = -\frac{d \Phi_B}{dt} Accordingly, a Solenoid with N total turns will have an EMF N times as large as that induced by just one of its loops: \mathcal{E} = -N\frac{d \Phi_B}{dt} Of a rotating loop with N total turns and angular velocity \omega: \mathcal{E} = -N\frac{d \Phi_{B}}{dt} = NBA \omega sin(\omega t) Stationary Faraday’s Law If the path is stationary: \oint \vec{E} \cdot d \vec{l} = -\frac{d \Phi_B}{dt} Inside a Solenoid: \oint \vec{E} \cdot d \vec{l} = -\frac{dB}{dt}A = -\mu_{0}n \frac{dI}{dt} A.</description>
+    <pubDate>Wed, 18 Dec 2024 00:53:48 GMT</pubDate>
+  </item><item>
+    <title>Flux</title>
+    <link>https://https:/mileskent.github.io/Notes/Physics/Flux</link>
+    <guid>https://https:/mileskent.github.io/Notes/Physics/Flux</guid>
+    <description>The result of a surface integral, e.g. \Phi = \iint \vec{F} \cdot d \vec{S} Perpendicular-flowiness of the vector field through the surface.</description>
+    <pubDate>Wed, 18 Dec 2024 00:53:48 GMT</pubDate>
+  </item><item>
+    <title>Inductor</title>
+    <link>https://https:/mileskent.github.io/Notes/Physics/Inductor</link>
+    <guid>https://https:/mileskent.github.io/Notes/Physics/Inductor</guid>
+    <description>A Solenoid. Inductors resist change in current. Inductors have a property called Inductance. A good analogy for an inductor is a flywheel, where angular inertia represents resistance to current change.</description>
+    <pubDate>Wed, 18 Dec 2024 00:53:48 GMT</pubDate>
   </item><item>
     <title>Maxwell-Faraday Equation</title>
     <link>https://https:/mileskent.github.io/Notes/Physics/Maxwell-Faraday-Equation</link>
     <guid>https://https:/mileskent.github.io/Notes/Physics/Maxwell-Faraday-Equation</guid>
     <description>The differential form of this particular one of Maxwell’s Equations. \nabla \times E = -\frac{\partial B}{\partial t} \mathcal{E} = \oint \vec{E} \cdot d \vec{l} = -\frac{d \Phi_{B}}{d t} = - \frac{d}{dt} \oiint_{S} \vec{B} \cdot d \vec{S} = - \oiint_{S} \frac{\partial B}{\partial t} \cdot d \vec{S} Also: Faraday’s Law.</description>
-    <pubDate>Wed, 18 Dec 2024 00:51:01 GMT</pubDate>
-  </item><item>
-    <title>Poynting Vector</title>
-    <link>https://https:/mileskent.github.io/Notes/Physics/Poynting-Vector</link>
-    <guid>https://https:/mileskent.github.io/Notes/Physics/Poynting-Vector</guid>
-    <description>\vec{S} is the Poynting vector, which corresponds to the direction of the electromagnetic wave or its power flow. \vec{S} = \frac{1}{\mu_{0}} \vec{E} \times \vec{B} Where I is intensity in \frac{W}{m^2} I = S_{avg} = \frac{E_{max}B_{max}}{2 \mu_{0}}= \frac{E_{max}^2}{2 \mu_{0}c} E = cB .</description>
-    <pubDate>Wed, 18 Dec 2024 00:51:01 GMT</pubDate>
-  </item><item>
-    <title>RL Series DC Circuit</title>
-    <link>https://https:/mileskent.github.io/Notes/Physics/RL-Series-DC-Circuit</link>
-    <guid>https://https:/mileskent.github.io/Notes/Physics/RL-Series-DC-Circuit</guid>
-    <description>Where \mathcal{E} is the EMF of the battery that charges the circuit. Growth i(t)=\frac{\mathcal{E}}{R}(1-e^{-\frac{R}{L}t}) Decay i(t)=\frac{\mathcal{E}}{R}e^{-\frac{R}{L}t}.</description>
-    <pubDate>Wed, 18 Dec 2024 00:51:01 GMT</pubDate>
-  </item><item>
-    <title>Reactance</title>
-    <link>https://https:/mileskent.github.io/Notes/Physics/Reactance</link>
-    <guid>https://https:/mileskent.github.io/Notes/Physics/Reactance</guid>
-    <description>todo.</description>
-    <pubDate>Wed, 18 Dec 2024 00:51:01 GMT</pubDate>
+    <pubDate>Wed, 18 Dec 2024 00:53:48 GMT</pubDate>
   </item><item>
     <title>Solenoid</title>
     <link>https://https:/mileskent.github.io/Notes/Physics/Solenoid</link>
     <guid>https://https:/mileskent.github.io/Notes/Physics/Solenoid</guid>
     <description>A wire loop with turns in it. You get a magnetic field through one when current goes through it such that B \propto I. B =\mu_0nI.</description>
-    <pubDate>Wed, 18 Dec 2024 00:51:01 GMT</pubDate>
-  </item><item>
-    <title>Speed of Light</title>
-    <link>https://https:/mileskent.github.io/Notes/Physics/Speed-of-Light</link>
-    <guid>https://https:/mileskent.github.io/Notes/Physics/Speed-of-Light</guid>
-    <description>c = \frac{1}{\sqrt{\mu_{0}\epsilon_0}} Derivation using Maxwell’s Equations todo.</description>
-    <pubDate>Wed, 18 Dec 2024 00:51:01 GMT</pubDate>
+    <pubDate>Wed, 18 Dec 2024 00:53:48 GMT</pubDate>
   </item>
     </channel>
   </rss>
